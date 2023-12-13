@@ -1,1 +1,1 @@
-# COG260_Project_Yu_Jingyu
+# COG260_Project_Yu_Nana
