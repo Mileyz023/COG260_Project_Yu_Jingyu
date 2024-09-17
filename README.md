@@ -1,4 +1,4 @@
-# Data_and_Mind_Project_Yu_Nana
+# Cross-linguistic_Colexification_Project_Yu_Nana
 
 This is the git repository for our COG260 Final Project on Cross-linguistic Colexification Prediction by Conceptual Association.
 
